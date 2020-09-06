@@ -118,10 +118,10 @@ public class SubmitProject extends AppCompatActivity {
             @Override
             protected Map<String, String> getParams() throws AuthFailureError {
                 Map<String, String> params = new HashMap<>();
-                params.put("entry.1630509061", fname);
-                params.put("entry.1387380987", lname);
-                params.put("entry.1656670047", email);
-                params.put("entry.1015787087", gitlink);
+                params.put("entry.1877115667", fname);
+                params.put("entry.2006916086", lname);
+                params.put("entry.1824927963", email);
+                params.put("entry.284483984", gitlink);
 
                 return params;
             }
