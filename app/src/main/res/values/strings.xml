@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toolbar_title">Google Africa </string>
+    <string name="toolbar_subtitle">Developer Scholarship</string>
+    <string name="leader_hour">https://gadsapi.herokuapp.com/api/hours</string>
+    <string name="leader_skilliq">https://gadsapi.herokuapp.com/api/skilliq</string>
+    <string name="project_submit">https://docs.google.com/forms/d/e/1FAIpQLSf9d1TcNU6zc6KR8bSEM41Z1g1zl35cwZr2xyjIhaMAz8WChQ/formResponse</string>
+</resources>
